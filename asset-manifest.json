@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46c632e4.css",
+    "main.js": "/static/js/main.1aebac5e.js",
+    "static/media/fotoCom.jpg": "/static/media/fotoCom.13d418b2ddee87eb7fb5.jpg",
+    "static/media/error.jpg": "/static/media/error.28ca731d333ba6e455a7.jpg",
+    "static/media/logo.png": "/static/media/logo.f6998851be94a1d0d7a2.png",
+    "static/media/2.png": "/static/media/2.01be1fb1f6003aaa4e30.png",
+    "static/media/1.png": "/static/media/1.2f05bfb1e2e5431e527d.png",
+    "index.html": "/index.html",
+    "main.46c632e4.css.map": "/static/css/main.46c632e4.css.map",
+    "main.1aebac5e.js.map": "/static/js/main.1aebac5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c632e4.css",
+    "static/js/main.1aebac5e.js"
+  ]
+}
